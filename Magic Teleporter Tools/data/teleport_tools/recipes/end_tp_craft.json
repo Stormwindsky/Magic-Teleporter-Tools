@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "endtpcraft",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    "ca "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:end_stone"
+    },
+    "b": {
+      "item": "minecraft:chorus_fruit"
+    },
+    "c": {
+      "item": "teleport_tools:nether_teleporter_tool"
+    }
+  },
+  "result": {
+    "item": "teleport_tools:end_teleporter",
+    "count": 1
+  }
+}
